@@ -34,12 +34,12 @@ A simple yet powerful web application that leverages modern web technologies and
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/yourusername/your-repository-name.git
+    git clone https://github.com/dilanmelvin/DEX_Voice_Recognition.git
     ```
 
 2. **Navigate to the Project Directory**
     ```bash
-    cd your-repository-name
+    cd DEX_Voice_Recognition
     ```
 
 3. **Set Up the Environment**
@@ -64,7 +64,7 @@ A simple yet powerful web application that leverages modern web technologies and
 
 ## 🎨 **How to Use**
 1. **Start Recording**: Click the microphone button to start recording your voice.
-2. **Stop Recording**: Click the button again to stop recording. The app will process the audio and display the transcribed text.
+2. **Stop Recording**: Click the button again to stop recoring. The app will process the audio and display the transcribed text.
 3. **View Transcription**: The recognized text appears on the screen in real-time.
 
 ## 📝 **Code Highlights**
@@ -83,7 +83,7 @@ We welcome contributions to enhance this project! If you have suggestions, feel 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## 📬 **Contact**
-For questions, issues, or feedback, please reach out to [Dilan Melvin](mailto:your-email@example.com).
+For questions, issues, or feedback, please reach out through LINKEDIN: "https://www.linkedin.com/in/t-dilan-melvin/".
 
 ---
 
