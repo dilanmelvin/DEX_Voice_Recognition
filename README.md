@@ -34,12 +34,12 @@ A simple yet powerful web application that leverages modern web technologies and
 
 1. **Clone the Repository**
     ```bash
-    git clone https://github.com/dilanmelvin/CodeClauseIntership_DEX_Voice_Recognition.git
+    git clone https://github.com/dilanmelvin/DEX_Voice_Recognition.git
     ```
 
 2. **Navigate to the Project Directory**
     ```bash
-    cd CodeClauseIntership_DEX_Voice_Recognition
+    cd DEX_Voice_Recognition
     ```
 
 3. **Set Up the Environment**
