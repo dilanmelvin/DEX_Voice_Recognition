@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DEX Voice Recognition</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}">
+</head>
+<body>
+    <div class="container">
+        <div class="center-content">
+            <!-- Microphone Button -->
+            <button id="mic-button" class="mic-button"
+                    data-mic-off="{{ url_for('static', filename='images/mic_off.png') }}"
+                    data-mic-on="{{ url_for('static', filename='images/mic_on.png') }}">
+                <img id="mic-icon" src="{{ url_for('static', filename='images/mic_off.png') }}" alt="Microphone">
+            </button>
+            <!-- Sound Wave Visualization -->
+            <div id="waveform" class="waveform"></div>
+        </div>
+
+        <!-- Transcription Text -->
+        <div class="transcription">
+            <p id="transcription-text">Transcription will appear here...</p>
+        </div>
+    </div>
+
+    <!-- FontAwesome for Microphone Icon -->
+    <script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+    <!-- Custom JavaScript -->
+    <script src="{{ url_for('static', filename='js/app.js') }}"></script>
+</body>
+</html>
